@@ -1,5 +1,5 @@
 {
-    "default_model": "animaPencilXL_v310.safetensors",
+    "default_model": "animaPencilXL_v300.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -29,29 +29,22 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 6.0,
+    "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Semi Realistic",
-        "Fooocus Masterpiece"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "animaPencilXL_v310.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/animaPencilXL_v310.safetensors"
+        "animaPencilXL_v300.safetensors": "https://civitai.com/api/download/models/435001?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
-    "previous_default_models": [
-        "animaPencilXL_v300.safetensors",
-        "animaPencilXL_v260.safetensors",
-        "animaPencilXL_v210.safetensors",
-        "animaPencilXL_v200.safetensors",
-        "animaPencilXL_v100.safetensors"
-    ]
+    "lora_downloads": {
+        "xl_more_art.safetensors": "https://civitai.com/api/download/models/152309?type=Model&format=SafeTensor",
+        "Detail_Tweaker_XL.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor"
+    },
+    "previous_default_models": []
 }

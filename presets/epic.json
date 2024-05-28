@@ -1,7 +1,9 @@
 {
-    "default_model": "Juggernaut_XL_V9RD.safetensors",
+    "default_model": "epicrealismXL_v7FinalDestination.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.4,
+    "default_loras_min_weight": -5,
+    "default_loras_max_weight": 5,
     "default_loras": [
         [
             true,
@@ -29,24 +31,23 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 7.0,
+    "default_max_lora_number": 10,
+    "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Photograph",
-        "Fooocus Negative"
-    ],
+    "default_prompt_negative": "",
+    "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "Juggernaut_XL_V9RD.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors"
+        "epicrealismXL_v7FinalDestination.safetensors": "https://huggingface.co/misri/epicrealismXL_v7FinalDestination/resolve/main/epicrealismXL_v7FinalDestination.safetensors?download=true",
+        "epicphotogasm_ultimateFidelity.safetensors": "https://huggingface.co/liamhvn/epiCPhotoGasm-ultimate-fidelity/resolve/main/epicphotogasm_ultimateFidelity.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
+        "epiCPhotoXL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/epiCPhotoXL.safetensors?download=true"
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }

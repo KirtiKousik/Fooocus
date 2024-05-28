@@ -1,16 +1,16 @@
 {
-    "default_model": "Juggernaut_XL_V9RD.safetensors",
+    "default_model": "tamarinXL_v10.safetensors",
     "default_refiner": "None",
-    "default_refiner_switch": 0.4,
+    "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "None",
-            1.0
+            "xl_more_art.safetensors",
+            0.3
         ],
         [
             true,
-            "None",
+            "Detail_Tweaker_XL.safetensors",
             1.0
         ],
         [
@@ -35,18 +35,17 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Photograph",
-        "Fooocus Negative"
-    ],
+    "default_prompt_negative": "",
+    "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "Juggernaut_XL_V9RD.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors"
+        "tamarinXL_v10.safetensors": "https://huggingface.co/KirtiKousik/Yamermix/resolve/main/tamarinXL_v10.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
+        "xl_more_art.safetensors": "https://civitai.com/api/download/models/152309?type=Model&format=SafeTensor",
+        "Detail_Tweaker_XL.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor"
+    
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }

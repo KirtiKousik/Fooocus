@@ -1,7 +1,9 @@
 {
-    "default_model": "Juggernaut_XL_V9RD.safetensors",
+    "default_model": "matrixHentaiPony_v141.safetensors",
     "default_refiner": "None",
-    "default_refiner_switch": 0.4,
+    "default_refiner_switch": 0.5,
+    "default_loras_min_weight": -4,
+    "default_loras_max_weight": 4,
     "default_loras": [
         [
             true,
@@ -29,24 +31,20 @@
             1.0
         ]
     ],
+    "default_max_lora_number": 8,
     "default_cfg_scale": 7.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Photograph",
-        "Fooocus Negative"
-    ],
+    "default_prompt": "score_9, score_8_up, score_7_up",
+    "default_prompt_negative": "zPDXL-neg, score_6, score_5, score_4, pony, gaping, muscular, censored",
+    "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "Juggernaut_XL_V9RD.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors"
+        "matrixHentaiPony_v141.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/matrixHentaiPony_v141.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-    },
+    "lora_downloads": {},
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }

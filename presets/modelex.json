@@ -1,0 +1,50 @@
+{
+    "default_model": "modelEX_v45.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras_min_weight": -4,
+    "default_loras_max_weight": 4,
+    "default_loras": [
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_max_lora_number": 10,
+    "default_cfg_scale": 7.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "euler_ancestral",
+    "default_scheduler": "normal",
+    "default_performance": "Speed",
+    "default_prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Details, Captivating Details, intricate Details, Max Details, Detailed,",
+    "default_prompt_negative": "negativeXL_D, badhandv4, zPDXL-neg, score_6, score_5, score_4, pony, censored, furry, ugly face, low res, blurry face,muscular,",
+    "default_styles": [],
+    "default_aspect_ratio": "896*1152",
+    "checkpoint_downloads": {
+        "modelEX_v45.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/modelEX_v45.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {},
+    "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
+}
