@@ -1,5 +1,5 @@
 {
-    "default_model": "ponyRealism_v11.safetensors",
+    "default_model": "ponyRealism_v21VAE.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras_min_weight": -5,
@@ -42,7 +42,7 @@
     "default_styles": [],
     "default_aspect_ratio": "832*1216",
     "checkpoint_downloads": {
-        "ponyRealism_v11.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/ponyRealism_v11.safetensors?download=true"
+        "ponyRealism_v21VAE.safetensors": "https://huggingface.co/imagepipeline/pony-realism/resolve/main/ponyRealism_v21VAE.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
