@@ -42,7 +42,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "toonify_Ponydiffusionxl.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/toonify_Ponydiffusionxl.safetensors"
+        "toonify_Ponydiffusionxl.safetensors": "https://huggingface.co/BetterThanNothing/Toonify_PonyXl/resolve/main/TOONIFY_PONY.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
