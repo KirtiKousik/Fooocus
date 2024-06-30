@@ -1,5 +1,5 @@
 {
-    "default_model": "duchaitenPonyXLNo_ponyNoScoreV40.safetensors",
+    "default_model": "DucHaiten-Pony-no_score_v4.0.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras_min_weight": -5,
@@ -42,7 +42,7 @@
     "default_styles": [],
     "default_aspect_ratio": "832*1216",
     "checkpoint_downloads": {
-        "duchaitenPonyXLNo_ponyNoScoreV40.safetensors": "https://huggingface.co/LyliaEngine/Duchaiten_PonyXL-No_Pony-No_Score-V40/resolve/main/duchaitenPonyXLNo_ponyNoScoreV40.safetensors?download=true"
+        "DucHaiten-Pony-no_score_v4.0.safetensors": "https://huggingface.co/DucHaiten/DucHaiten-Pony/resolve/main/DucHaiten-Pony-no_score_v4.0.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
