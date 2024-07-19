@@ -39,16 +39,26 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "score_9, score_8_up, score_7_up, score_6_up",
-    "default_prompt_negative": "",
+    "default_prompt_negative": "Score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), (simple background), ugly, (old looking woman's face:1.3), extra hands, deformed fingers, extra fingers, fat, chubby body, narrow face, camera or phone",
     "default_styles": [],
-    "default_aspect_ratio": "896*1152",
+    "default_aspect_ratio": "832*1152",
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/tnlight/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "Detail_Tweaker.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor"
+        "Expressive_H.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Expressive_H-000001.safetensors"
+        "Vixons_painting_1dkXLP.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/1dkXLP.safetensors"
+        "Vixons_d3t41l3dXLP.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/d3t41l3dXLP.safetensors"
+        "AmateurStyle_v1_PONY_REALISM.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/AmateurStyle_v1_PONY_REALISM.safetensors"
+        "sinfully_stylish_PONY_02.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/sinfully_stylish_PONY_0.2.safetensors"
+        "Age_slider_20.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Age%20Slider%20V2_alpha1.0_rank4_noxattn_last.safetensors"
+        "Skin_color_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Skin%20Color_alpha1.0_rank4_noxattn_250steps.safetensors"
+        
+    },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
     }
