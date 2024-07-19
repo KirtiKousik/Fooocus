@@ -2,9 +2,9 @@
     "default_model": "ponyRealism_v21MainVAE.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
-    "default_loras_min_weight": -5,
-    "default_loras_max_weight": 5,
-    "default_vae": "None",
+    "default_loras_min_weight": -8,
+    "default_loras_max_weight": 8,
+    "default_vae": "ponyDiffusionV6XL_vae.safetensors",
     "default_loras": [
         [
             true,
