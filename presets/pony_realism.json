@@ -69,5 +69,7 @@
         "Skin_color_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Skin%20Color_alpha1.0_rank4_noxattn_250steps.safetensors"
         
     },
-    "vae_downloads": {}
+    "vae_downloads": {
+        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
+    }
 }
