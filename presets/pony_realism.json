@@ -4,7 +4,7 @@
     "default_refiner_switch": 0.5,
     "default_loras_min_weight": -5,
     "default_loras_max_weight": 5,
-    "default_vae": "ponyDiffusionV6XL_vae.safetensors",
+    "default_vae": "None",
     "default_loras": [
         [
             true,
@@ -43,7 +43,7 @@
         ]
     ],
     "default_max_lora_number": 10,
-    "default_cfg_scale": 7.0,
+    "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "euler_ancestral",
     "default_scheduler": "karras",
@@ -69,7 +69,5 @@
         "Skin_color_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Skin%20Color_alpha1.0_rank4_noxattn_250steps.safetensors"
         
     },
-    "vae_downloads": {
-        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
-    }
+    "vae_downloads": {}
 }
