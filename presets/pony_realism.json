@@ -14,22 +14,32 @@
         [
             true,
             "Vixons_painting_1dkXLP.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/1dkXLP.safetensors",
-            1.0
+            0.2
         ],
         [
             true,
             "Vixons_d3t41l3dXLP.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/d3t41l3dXLP.safetensors",
-            1.0
+            0.3
         ],
         [
             true,
             "Expressive_H.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Expressive_H-000001.safetensors",
-            1.0
+            0.75
         ],
         [
             true,
             "AmateurStyle_v1_PONY_REALISM.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/AmateurStyle_v1_PONY_REALISM.safetensors",
             1.0
+        ],
+        [
+            true,
+            "sinfully_stylish_PONY_02.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/sinfully_stylish_PONY_0.2.safetensors",
+            0.4
+        ],
+        [
+            true,
+            "Age_slider_20.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Age%20Slider%20V2_alpha1.0_rank4_noxattn_last.safetensors",
+            -4.0
         ]
     ],
     "default_max_lora_number": 10,
