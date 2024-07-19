@@ -8,27 +8,27 @@
     "default_loras": [
         [
             true,
-            "None",
+            "Detail_Tweaker.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
             1.0
         ],
         [
             true,
-            "None",
+            "Vixons_painting_1dkXLP.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/1dkXLP.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "Vixons_d3t41l3dXLP.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/d3t41l3dXLP.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "Expressive_H.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Expressive_H-000001.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "AmateurStyle_v1_PONY_REALISM.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/AmateurStyle_v1_PONY_REALISM.safetensors",
             1.0
         ]
     ],
