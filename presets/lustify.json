@@ -4,7 +4,6 @@
     "default_refiner_switch": 0.5,
     "default_loras_min_weight": -5,
     "default_loras_max_weight": 5,
-    "default_vae": "None",
     "default_loras": [
         [
             true,
