@@ -2,8 +2,8 @@
     "default_model": "ponyDiffusionV6XL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
-    "default_loras_min_weight": -5,
-    "default_loras_max_weight": 5,
+    "default_loras_min_weight": -15,
+    "default_loras_max_weight": 15,
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
     "default_loras": [
         [
