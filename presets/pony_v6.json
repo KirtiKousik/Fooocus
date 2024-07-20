@@ -52,7 +52,7 @@
         "Detail_Tweaker.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
         "PerfectEyesXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/PerfectEyesXL.safetensors",
         "PerfectHandsXL.safetensors": "https://huggingface.co/KirtiKousik/perfect_hands/resolve/main/Perfect%20Hands%20v2.safetensors",
-        "Vixons_neon_g0th1cPXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/.safetensors",
+        "Vixons_neon_g0th1cPXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/g0th1cPXL.safetensors?download=true",
         "All_Disney_Princess.safetensors": "https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor",
         "incase_style_v31.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/incase_style_v3-1_ponyxl_ilff.safetensors",
         "detailed_notrigger.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/detailed_notrigger.safetensors",
