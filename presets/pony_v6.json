@@ -41,7 +41,7 @@
     "default_prompt": "score_9, score_8_up, score_7_up, score_6_up",
     "default_prompt_negative": "",
     "default_styles": [],
-    "default_aspect_ratio": "896*1152",
+    "default_aspect_ratio": "832*1152",
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
