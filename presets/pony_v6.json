@@ -68,6 +68,7 @@
         "Lineart_style.safetensors": "https://civitai.com/api/download/models/302106?type=Model&format=SafeTensor",
         "Picture_book.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/J_cartoon.safetensors",
         "LunarCAT_Style.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/LunarCAT_Style.safetensors",
+        "Smooth_Anime.safetensors": "https://civitai.com/api/download/models/298238?type=Model&format=SafeTensor",
         "Uncensored_PonyXL_cpt_v03.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Uncensored_PonyXL_cpt_v03.safetensors"
     },
     "vae_downloads": {
