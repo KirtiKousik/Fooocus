@@ -60,7 +60,6 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "Detail_Tweaker.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
-        "Creat0r_MagicDetailzV2_FIX.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Creat0r_MagicDetailzV2_FIX.safetensors",
         "PerfectEyesXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/PerfectEyesXL.safetensors",
         "PerfectHandsXL.safetensors": "https://huggingface.co/KirtiKousik/perfect_hands/resolve/main/Perfect%20Hands%20v2.safetensors",
         "Vixons_neon_g0th1cPXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/g0th1cPXL.safetensors?download=true",
@@ -73,7 +72,8 @@
         "AmateurStyle_v1_PONY_REALISM.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/AmateurStyle_v1_PONY_REALISM.safetensors",
         "sinfully_stylish_PONY_02.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/sinfully_stylish_PONY_0.2.safetensors",
         "Age_slider_20.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Age%20Slider%20V2_alpha1.0_rank4_noxattn_last.safetensors",
-        "Skin_color_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Skin%20Color_alpha1.0_rank4_noxattn_250steps.safetensors"
+        "Skin_color_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Skin%20Color_alpha1.0_rank4_noxattn_250steps.safetensors",
+        "Creat0r_MagicDetailzV2_FIX.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Creat0r_MagicDetailzV2_FIX.safetensors"
     },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
