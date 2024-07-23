@@ -1,5 +1,5 @@
 {
-    "default_model": "realDream_sdxlPony8.safetensors",
+    "default_model": "realDream_sdxlPony9.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras_min_weight": -8,
@@ -35,7 +35,7 @@
     "default_overwrite_step": 32,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "realDream_sdxlPony8.safetensors": "https://huggingface.co/MishGUN1/realDream_sdxlPony8/resolve/main/realDream_sdxlPony8.safetensors"
+        "realDream_sdxlPony9.safetensors": "https://huggingface.co/luisrguerra/real-dream-sdxl/resolve/main/pony-9-real-dream.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
