@@ -32,7 +32,7 @@
     "default_prompt_negative": "score_6, score_5, score_4, score_3, zPDXLrl-neg, zPDXL2-neg,simple background, fat, chubby, polydactyl, amputated, contorted, blur, low quality, fairy wings, elf ears, censored , cross-eyed, (lazy eye), bucktooth, fat, disgusting, bad drawing, creepy, anime, whore, makeup, burned, sunburned, ghostly, deformed, red, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes",
     "default_styles": [],
     "default_aspect_ratio": "832*1152",
-    "default_overwrite_step": 32,
+    "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "realDream_sdxlPony9.safetensors": "https://huggingface.co/luisrguerra/real-dream-sdxl/resolve/main/pony-9-real-dream.safetensors"
