@@ -60,6 +60,7 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "Detail_Tweaker.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "Ash1.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Ash1.safetensors",
         "RawFully_stylish.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Rawfully%20Stylish%20v0.2_epoch_20.safetensors",
         "PerfectEyesXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/PerfectEyesXL.safetensors",
         "PerfectHandsXL.safetensors": "https://huggingface.co/KirtiKousik/perfect_hands/resolve/main/Perfect%20Hands%20v2.safetensors",
