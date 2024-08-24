@@ -1,5 +1,5 @@
 {
-    "default_model": "fennfotoPONY_v4.safetensors",
+    "default_model": "realponyDreams_v200.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras_min_weight": -8,
@@ -8,38 +8,52 @@
     "default_loras": [
         [
             true,
-            "Detail_Tweaker.safetensors",
-            1.25
+            "None",
+            1.0
         ],
         [
             true,
             "None",
-            1
+            1.0
         ],
         [
             true,
             "None",
-            1
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
         ]
     ],
     "default_max_lora_number": 10,
-    "default_cfg_scale": 4.0,
+    "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "euler_ancestral",
-    "default_scheduler": "karras",
+    "default_scheduler": "sgm_uniform",
     "default_performance": "Speed",
-    "default_prompt": "score_9, score_8_up, score_7_up, score_6_up",
-    "default_prompt_negative": "score_6, score_5, score_4, score_3, zPDXLrl-neg, zPDXL2-neg,simple background, fat, chubby, polydactyl, amputated, contorted, blur, low quality, fairy wings, elf ears, censored , cross-eyed, (lazy eye), bucktooth, fat, disgusting, bad drawing, creepy, anime, whore, makeup, burned, sunburned, ghostly, deformed, red, censored, furry, 3d, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes",
+    "default_prompt": "zpdxlrl, zpdxl2, score_9, score_8_up, score_7_up, score_6_up",
+    "default_prompt_negative": "zpdxlrl-neg, zpdxl2-neg, Score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), (simple background), ugly, (old looking woman's face:1.3), extra hands, deformed fingers, extra fingers, fat, chubby body, narrow face, camera or phone",
     "default_styles": [],
     "default_aspect_ratio": "832*1152",
-    "default_overwrite_step": -1,
+    "default_overwrite_step": 33,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "fennfotoPONY_v4.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/fennfotoPONY_v4.safetensors"
+        "realponyDreams_v200.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/realponyDreams_v200.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "Detail_Tweaker.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "Fant5yP0ny.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Fant5yP0ny.safetensors",
+        "epiCPhotoXL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/epiCPhotoXL.safetensors",
+        "Beauty_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Beautiful%20face_alpha1.0_rank4_noxattn_last.safetensors",
+        "Ash1.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Ash1.safetensors",
         "RawFully_stylish.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Rawfully%20Stylish%20v0.2_epoch_20.safetensors",
         "PerfectEyesXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/PerfectEyesXL.safetensors",
         "PerfectHandsXL.safetensors": "https://huggingface.co/KirtiKousik/perfect_hands/resolve/main/Perfect%20Hands%20v2.safetensors",
