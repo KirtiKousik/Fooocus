@@ -1,12 +1,14 @@
 {
-    "default_model": "realisticStockPhoto_v20.safetensors",
+    "default_model": "RealVisXL_V5.0_fp32.safetensors",
     "default_refiner": "None",
+    "default_loras_min_weight": -8,
+    "default_loras_max_weight": 8,
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
-            0.25
+            "None",
+            1
         ],
         [
             true,
@@ -29,26 +31,27 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 3.0,
+    "default_max_lora_number": 10,
+    "default_cfg_scale": 4.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Photograph",
-        "Fooocus Negative"
-    ],
-    "default_aspect_ratio": "896*1152",
+    "default_prompt_negative": "",
+    "default_styles": [],
+    "default_aspect_ratio": "832*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realisticStockPhoto_v20.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v20.safetensors"
+        "RealVisXL_V5.0_fp32.safetensors": "https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp32.safetensors?download=true"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors"
-    },
-    "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
+    "lora_downloads": {},
+    "previous_default_models": [
+        "juggernautXL_version8Rundiffusion.safetensors",
+        "juggernautXL_version7Rundiffusion.safetensors",
+        "juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v6Rundiffusion.safetensors"
+    ]
 }
