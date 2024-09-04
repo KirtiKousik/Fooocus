@@ -1,5 +1,5 @@
 {
-    "default_model": "duchaitenPonyXLNo_v52.safetensors",
+    "default_model": "duchaitenPonyReal_ponyRealV11Fix.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras_min_weight": -8,
@@ -35,11 +35,14 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "duchaitenPonyXLNo_v52.safetensors": "https://huggingface.co/LyliaEngine/duchaitenPonyXLNo_v52/resolve/main/duchaitenPonyXLNo_v52.safetensors"
+        "duchaitenPonyReal_ponyRealV11Fix.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/duchaitenPonyReal_ponyRealV11Fix.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "Detail_Tweaker.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "Lighting_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/lighting%20Slider_alpha1.0_rank4_noxattn_last.safetensors",
+        "Fant5yP0ny.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Fant5yP0ny.safetensors",
+        "Beauty_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Beautiful%20face_alpha1.0_rank4_noxattn_last.safetensors",
         "RawFully_stylish.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Rawfully%20Stylish%20v0.2_epoch_20.safetensors",
         "PerfectEyesXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/PerfectEyesXL.safetensors",
         "PerfectHandsXL.safetensors": "https://huggingface.co/KirtiKousik/perfect_hands/resolve/main/Perfect%20Hands%20v2.safetensors",
@@ -53,8 +56,7 @@
         "AmateurStyle_v1_PONY_REALISM.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/AmateurStyle_v1_PONY_REALISM.safetensors",
         "sinfully_stylish_PONY_02.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/sinfully_stylish_PONY_0.2.safetensors",
         "Age_slider_20.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Age%20Slider%20V2_alpha1.0_rank4_noxattn_last.safetensors",
-        "Skin_color_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Skin%20Color_alpha1.0_rank4_noxattn_250steps.safetensors",
-        "Creat0r_MagicDetailzV2_FIX.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Creat0r_MagicDetailzV2_FIX.safetensors"
+        "Skin_color_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Skin%20Color_alpha1.0_rank4_noxattn_250steps.safetensors"
     },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
