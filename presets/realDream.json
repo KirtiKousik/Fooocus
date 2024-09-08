@@ -1,5 +1,5 @@
 {
-    "default_model": "realDream_sdxlPony9.safetensors",
+    "default_model": "realDream_sdxlPony11.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras_min_weight": -8,
@@ -8,8 +8,8 @@
     "default_loras": [
         [
             true,
-            "Detail_Tweaker.safetensors",
-            1.25
+            "None",
+            1
         ],
         [
             true,
@@ -35,14 +35,18 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "realDream_sdxlPony9.safetensors": "https://huggingface.co/luisrguerra/real-dream-sdxl/resolve/main/pony-9-real-dream.safetensors"
+        "realDream_sdxlPony11.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/realDream_sdxlPony11.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "Detail_Tweaker.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "F1NN5TER.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/F1NN5TER.safetensors",
+        "Lighting_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/lighting%20Slider_alpha1.0_rank4_noxattn_last.safetensors",
+        "Fant5yP0ny.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Fant5yP0ny.safetensors",
+        "Beauty_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Beautiful%20face_alpha1.0_rank4_noxattn_last.safetensors",
         "RawFully_stylish.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Rawfully%20Stylish%20v0.2_epoch_20.safetensors",
         "PerfectEyesXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/PerfectEyesXL.safetensors",
-        "PerfectHandsXL.safetensors": "https://huggingface.co/KirtiKousik/perfect_hands/resolve/main/Perfect%20Hands%20v2.safetensors",
+        "Detailed_hands_2.safetensors": "https://huggingface.co/KirtiKousik/sliders_pony/resolve/main/detailed_hands-000002.safetensors",
         "Vixons_neon_g0th1cPXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/g0th1cPXL.safetensors?download=true",
         "All_Disney_Princess.safetensors": "https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor",
         "incase_style_v31.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/incase_style_v3-1_ponyxl_ilff.safetensors",
@@ -50,13 +54,14 @@
         "Expressive_H.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Expressive_H-000001.safetensors",
         "Vixons_painting_1dkXLP.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/1dkXLP.safetensors",
         "Vixons_d3t41l3dXLP.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/d3t41l3dXLP.safetensors",
-        "AmateurStyle_v1_PONY_REALISM.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/AmateurStyle_v1_PONY_REALISM.safetensors",
+        "zy_AmateurStyle_v2.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/zy_AmateurStyle_v2.safetensors",
         "sinfully_stylish_PONY_02.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/sinfully_stylish_PONY_0.2.safetensors",
         "Age_slider_20.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/main/Age%20Slider%20V2_alpha1.0_rank4_noxattn_last.safetensors",
         "Skin_color_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Skin%20Color_alpha1.0_rank4_noxattn_250steps.safetensors",
-        "Creat0r_MagicDetailzV2_FIX.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Creat0r_MagicDetailzV2_FIX.safetensors"
+        "Body_type_slider.safetensors": "https://huggingface.co/KirtiKousik/sliders_pony/resolve/main/Body%20Type_alpha1.0_rank4_noxattn_last.safetensors",
+        "Breast_size_slider.safetensors": "https://huggingface.co/KirtiKousik/sliders_pony/resolve/main/Breast%20Slider%20-%20Pony_alpha1.0_rank4_noxattn_last.safetensors",
+        "Nipple_size_slider.safetensors": "https://huggingface.co/KirtiKousik/sliders_pony/resolve/main/Nipple%20Size%20Slider_alpha1.0_rank4_noxattn_last.safetensors",
+        "Penis_size_slider.safetensors": "https://huggingface.co/KirtiKousik/sliders_pony/resolve/main/Penis%20Size_alpha1.0_rank4_noxattn_last.safetensors"
     },
-    "vae_downloads": {
-        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
-    }
+    "vae_downloads": {}
 }
