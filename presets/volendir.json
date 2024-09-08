@@ -42,7 +42,7 @@
     "default_prompt_negative": "zpdxlrl-neg, zpdxl2-neg, Score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), (simple background), ugly, (old looking woman's face:1.3), extra hands, deformed fingers, extra fingers, fat, chubby body, narrow face, camera or phone",
     "default_styles": [],
     "default_aspect_ratio": "832*1152",
-    "default_overwrite_step": 33,
+    "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "volendirPonyCinematic_v11Redone.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/volendirPonyCinematic_v11Redone.safetensors"
