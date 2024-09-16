@@ -73,7 +73,5 @@
         "Nipple_size_slider.safetensors": "https://huggingface.co/KirtiKousik/sliders_pony/resolve/main/Nipple%20Size%20Slider_alpha1.0_rank4_noxattn_last.safetensors",
         "Penis_size_slider.safetensors": "https://huggingface.co/KirtiKousik/sliders_pony/resolve/main/Penis%20Size_alpha1.0_rank4_noxattn_last.safetensors"
     },
-    "vae_downloads": {
-        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
-    }
+    "vae_downloads": {}
 }
