@@ -44,7 +44,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "ponyDiffusionV6XL.safetensors": "https://civitai.com/api/download/models/1873831?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "ponyDiffusionV6XL.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/prefectIllustriousXL_v20p.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
