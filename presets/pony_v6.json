@@ -2,7 +2,6 @@
     "default_model": "ponyDiffusionV6XL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
-    "default_vae": "None",
     "default_loras": [
         [
             true,
