@@ -45,7 +45,8 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "realcumv5_final.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/realcumv5_final.safetensors?download=true"
+        "realcumv5_final.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/realcumv5_final.safetensors?download=true",
+        "PornMaster-cum-sdxl-V2-lora.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/PornMaster-cum-sdxl-V2-lora.safetensors?download=true"
     },
     "vae_downloads": {}
 }
