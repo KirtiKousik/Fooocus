@@ -34,6 +34,7 @@
     "detault_max_lora_number": 10,
     "default_loras_min_weight": -8,
     "default_loras_max_weight": 8,
+    "default_styles": "",
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
