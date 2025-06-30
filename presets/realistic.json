@@ -33,7 +33,7 @@
     "default_sample_sharpness": 2.0,
     "detault_max_lora_number": 10,
     "default_loras_min_weight": -8,
-    "default_loras_max_weight": -8,
+    "default_loras_max_weight": 8,
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
