@@ -44,6 +44,8 @@
         "epicRealismXL.safetensors": "https://huggingface.co/modelzpalace/epicrealismXL_vxviiCrystalclear/resolve/main/epicrealismXL_vxviiCrystalclear.safetensors?download=true"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "realcumv5_final.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/realcumv5_final.safetensors?download=true"
+    },
     "vae_downloads": {}
 }
