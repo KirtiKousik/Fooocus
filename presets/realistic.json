@@ -45,7 +45,10 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "realcumv5_final.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/realcumv5_final.safetensors?download=true",
+        "BSS_RSGRL_IL.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/BSS_RSGRL_IL.safetensors?download=true",
+        "FLMGR-IL.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/FLMGR-IL.safetensors?download=true",
+        "Smooth_Booster_v2.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Smooth_Booster_v2.safetensors?download=true",
+        "body_weight_slider_v1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/body_weight_slider_v1.safetensors?download=true",
         "PornMaster-cum-sdxl-V2-lora.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/PornMaster-cum-sdxl-V2-lora.safetensors?download=true"
     },
     "vae_downloads": {}
