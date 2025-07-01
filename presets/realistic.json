@@ -1,5 +1,5 @@
 {
-    "default_model": "divingIllustrious3D_v20VAE.safetensors",
+    "default_model": "redcraftCADSUpdatedMar11_3relustionIL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -45,7 +45,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "divingIllustrious3D_v20VAE.safetensors": "https://huggingface.co/KirtiKousik/pony_checkpoints/resolve/main/divingIllustrious3D_v20VAE.safetensors?download=true"
+        "redcraftCADSUpdatedMar11_3relustionIL.safetensors": "https://huggingface.co/GuangyuanSD/Illust3Relustion/resolve/main/redcraftCADSUpdatedMar11_3relustionIL.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
