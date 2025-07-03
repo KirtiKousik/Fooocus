@@ -1,5 +1,5 @@
 {
-    "default_model": "waiNSFWIllustrious_v14.safetensors",
+    "default_model": "yiffymix_v61aRENoobxl.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -43,11 +43,13 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "waiNSFWIllustrious_v14.safetensors": "https://huggingface.co/TheReprinter/WAI-NSFW-illustrious-SDXL/resolve/main/waiNSFWIllustrious_v14.safetensors?download=true"
+        "yiffymix_v61aRENoobxl.safetensors": "https://huggingface.co/Michindus/YiffyMix-v61a-RE-NoobXL/resolve/main/yiffymix_v61aRENoobxl.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "huge_facial_ill2.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/huge_facial_ill2.safetensors?download=true",
+        "judyhopps-v3-Yiffy.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/judyhopps-v3-Yiffy.safetensors?download=true",
+        "Ponut_Paradise.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Ponut_Paradise.safetensors?download=true",
         "Bovine_Genitalia_E10.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Bovine_Genitalia_E10.safetensors?download=true",
         "Flared_Equine_Penis_IL.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Flared_Equine_Penis_IL.safetensors?download=true",
         "Detailed_Equine_Pussy_V4_IL.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Detailed_Equine_Pussy_V4_IL-000005.safetensors?download=true",
