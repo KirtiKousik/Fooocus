@@ -29,7 +29,7 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 7.0,
+    "default_cfg_scale": 4.0,
     "default_sample_sharpness": 2.0,
     "detault_max_lora_number": 10,
     "default_loras_min_weight": -8,
