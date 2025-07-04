@@ -48,6 +48,7 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "huge_facial_ill2.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/huge_facial_ill2.safetensors?download=true",
+        "Gobbo_Style.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Gobbo_Style-000010.safetensors?download=true",
         "Wholesome_MLP.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Wholesome-MLP-v1.4b.safetensors?download=true",
         "judyhopps-v3-Yiffy.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/judyhopps-v3-Yiffy.safetensors?download=true",
         "Ponut_Paradise.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Ponut_Paradise.safetensors?download=true",
