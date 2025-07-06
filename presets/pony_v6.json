@@ -1,5 +1,5 @@
 {
-    "default_model": "yiffymix_v61aRENoobxl.safetensors",
+    "default_model": "yiffymix_v62Noobxl.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -43,7 +43,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "yiffymix_v61aRENoobxl.safetensors": "https://huggingface.co/Michindus/YiffyMix-v61a-RE-NoobXL/resolve/main/yiffymix_v61aRENoobxl.safetensors?download=true"
+        "yiffymix_v62Noobxl.safetensors": "https://huggingface.co/Michindus/Yiffymix-v62-NoobXL/resolve/main/yiffymix_v62Noobxl.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
