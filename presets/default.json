@@ -61,8 +61,8 @@
         "BSS_RSGRL_IL.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/BSS_RSGRL_IL.safetensors?download=true",
         "FLMGR-IL.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/FLMGR-IL.safetensors?download=true"
     },
-    "vae_downloads": {}
-      "previous_default_models": [
+    "vae_downloads": {},
+    "previous_default_models": [
         "epicrealismXL_vxviiCrystalclear.safetensors",
         "https://huggingface.co/modelzpalace/epicrealismXL_vxviiCrystalclear/resolve/main/epicrealismXL_vxviiCrystalclear.safetensors"
     ]
