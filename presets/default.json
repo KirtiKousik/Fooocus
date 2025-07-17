@@ -45,7 +45,6 @@
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "JuggernautXL_ragnarokBy.safetensors": "https://huggingface.co/OneAfterlife/juggernautXL_ragnarokBy/resolve/main/JuggernautXL_ragnarokBy.safetensors"
-        "epicrealismXL_vxviiCrystalclear.safetensors": "__https://huggingface.co/modelzpalace/epicrealismXL_vxviiCrystalclear/resolve/main/epicrealismXL_vxviiCrystalclear.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -63,4 +62,8 @@
         "FLMGR-IL.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/FLMGR-IL.safetensors?download=true"
     },
     "vae_downloads": {}
+      "previous_default_models": [
+        "epicrealismXL_vxviiCrystalclear.safetensors",
+        "https://huggingface.co/modelzpalace/epicrealismXL_vxviiCrystalclear/resolve/main/epicrealismXL_vxviiCrystalclear.safetensors"
+    ]
 }
