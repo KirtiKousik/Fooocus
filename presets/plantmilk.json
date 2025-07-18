@@ -2,6 +2,9 @@
     "default_model": "plantMilkModelSuite_walnut.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
+    "default_max_lora_number": 10,
+    "default_loras_min_weight": -8,
+    "default_loras_max_weight": 8,
     "default_loras": [
         [
             true,
@@ -31,6 +34,7 @@
     ],
     "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
+    "default_styles": [],
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
