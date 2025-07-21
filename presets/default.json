@@ -46,9 +46,7 @@
     "checkpoint_downloads": {
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors"
     },
-    "embeddings_downloads": {
-        "EasyNegative.safetensors": "https://huggingface.co/KirtiKousik/embeddings/resolve/main/easynegative.safetensors"
-    },
+    "embeddings_downloads": {},
     "lora_downloads": {
         "Expressive.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/Expressive_H-000001.safetensors",
         "Vixon_gothicNeon.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/g0th1cPXL.safetensors",
