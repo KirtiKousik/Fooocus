@@ -47,7 +47,7 @@
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors"
     },
     "embeddings_downloads": {
-        "EasyNegative.safetensors": "https://huggingface.co/KirtiKousik/embeddings/resolve/main/easynegative.safetensors";
+        "EasyNegative.safetensors": "https://huggingface.co/KirtiKousik/embeddings/resolve/main/easynegative.safetensors"
     },
     "lora_downloads": {
         "Expressive.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/Expressive_H-000001.safetensors",
