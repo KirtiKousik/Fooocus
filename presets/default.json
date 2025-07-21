@@ -52,7 +52,7 @@
         "Vixon_gothicNeon.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/g0th1cPXL.safetensors",
         "Incase.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/incase_style_v3-1_ponyxl_ilff.safetensors",
         "Disney_Princess.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/princess_xl_v1.safetensors",
-        "body_weight_slider_v1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/body_weight_slider_v1.safetensors",
+        "body_weight_slider_v1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/body_weight_slider_v1.safetensors"
     },
     "vae_downloads": {}
 }
