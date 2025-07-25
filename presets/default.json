@@ -52,7 +52,19 @@
         "Vixon_gothicNeon.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/g0th1cPXL.safetensors",
         "Incase.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/incase_style_v3-1_ponyxl_ilff.safetensors",
         "Disney_Princess.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/princess_xl_v1.safetensors",
-        "body_weight_slider_v1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/body_weight_slider_v1.safetensors"
+        "body_weight_slider_v1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/body_weight_slider_v1.safetensors",
+        "Wholesome_MLP.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Wholesome_MLP-v1.0.safetensors?download=true",
+        "Ponut_Paradise.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Ponut_Paradise.safetensors?download=true",
+        "Bovine_Genitalia_E10.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Bovine_Genitalia_E10.safetensors?download=true",
+        "Flared_Equine_Penis_IL.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Flared_Equine_Penis_IL.safetensors?download=true",
+        "Detailed_Equine_Pussy_V4_IL.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Detailed_Equine_Pussy_V4_IL-000005.safetensors?download=true",
+        "Detailed_Canine_Pussy_V3_IL.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Detailed_Canine_Pussy_V3_IL-000007.safetensors?download=true",
+        "Zaush_-_Art_Style_Illustrious.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Zaush_-_Art_Style_Illustrious.safetensors?download=true",
+        "Apenises_Ill_Bovine.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Apenises_Ill_Bovine.safetensors?download=true",
+        "Apenises_Ill_Dolphin.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Apenises_Ill_Dolphin.safetensors?download=true",
+        "Smooth_Booster_v2.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Smooth_Booster_v2.safetensors",
+        "MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors",
+        "Anime_artist_illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Anime_artist_illustrious_r1.safetensors"
     },
     "vae_downloads": {}
 }
