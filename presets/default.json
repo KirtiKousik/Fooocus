@@ -41,7 +41,7 @@
     "default_prompt": "Expressiveh, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up",
     "default_prompt_negative": "easynegative, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, mixed characters",
     "default_aspect_ratio": "832*1152",
-    "default_overwrite_step": 29,
+    "default_overwrite_step": 25,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors"
