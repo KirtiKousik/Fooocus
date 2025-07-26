@@ -14,7 +14,8 @@
         [
             true,
             "None",
-            1.0        ],
+            1.0        
+        ],
         [
             true,
             "None",
@@ -43,7 +44,8 @@
     "default_overwrite_step": 25,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors"
+        "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+        "ponyRealism_V23ULTRA.safetensors": "https://huggingface.co/miaellison/ponyRealism_V23ULTRA/resolve/main/ponyRealism_V23ULTRA.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
