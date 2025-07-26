@@ -52,6 +52,7 @@
         "Ponut_Paradise.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Ponut_Paradise.safetensors?download=true",
         "Smooth_Booster_v2.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Smooth_Booster_v2.safetensors",
         "MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors",
+        "Penis_size_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Penis%20Size%20Slider%20-%20Illustrious%20-%20Girthy_alpha1.0_rank4_noxattn_250steps.safetensors",
         "Anime_artist_illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Anime_artist_illustrious_r1.safetensors"
     },
     "vae_downloads": {
