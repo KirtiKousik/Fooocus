@@ -50,7 +50,8 @@
     "lora_downloads": {
         "Wholesome_MLP.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Wholesome_MLP-v1.0.safetensors?download=true",
         "Rumi_KPDH_Ill.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/RumiKPILf.safetensors",
-        "Rumi_KPDH_Pony.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/KPDH_Rumi.safetensors",
+        "Zoey_KPDH_Pony.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/ZoeyKPILf.safetensors",
+        "Mira_KPDH_Pony.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/MiraKPILf.safetensors",
         "Ponut_Paradise.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Ponut_Paradise.safetensors?download=true",
         "Smooth_Booster_v2.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Smooth_Booster_v2.safetensors",
         "MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors",
