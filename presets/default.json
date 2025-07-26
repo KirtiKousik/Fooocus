@@ -64,7 +64,7 @@
         "Apenises_Ill_Dolphin.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Apenises_Ill_Dolphin.safetensors?download=true",
         "Smooth_Booster_v2.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Smooth_Booster_v2.safetensors",
         "MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors",
-        "Anime_artist_illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Anime_artist_illustrious_r1.safetensors"
+        "Anime_artist_pony_v1.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Anime_artist.safetensors"
     },
     "vae_downloads": {}
 }
