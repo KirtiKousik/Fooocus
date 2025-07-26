@@ -1,5 +1,5 @@
 {
-    "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+    "default_model": "ponyRealism_V23ULTRA.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_max_lora_number": 10,
