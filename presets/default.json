@@ -8,23 +8,22 @@
     "default_loras": [
         [
             true,
-            "Disney_Princess.safetensors",
+            "None",
             1.0
         ],
         [
             true,
-            "Expressive.safetensors",
-            0.65
+            "None",
+            1.0        ],
+        [
+            true,
+            "None",
+            1.0
         ],
         [
             true,
-            "Vixon_gothicNeon.safetensors",
-            0.45
-        ],
-        [
-            true,
-            "Incase.safetensors",
-            0.5
+            "None",
+            1.0
         ],
         [
             true,
@@ -32,7 +31,7 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 4.0,
+    "default_cfg_scale": 6.0,
     "default_sample_sharpness": 2.0,
     "default_styles": [],
     "default_sampler": "euler_ancestral",
