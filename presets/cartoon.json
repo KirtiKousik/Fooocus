@@ -38,7 +38,7 @@
     "default_sampler": "lcm",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, cartoon, toon, {Prompt}, BREAK, depth of field, volumetric lighting",
+    "default_prompt": "masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, cartoon, toon, {Prompt}, gradient_background, dynamic build, color theory, shiny skin",
     "default_prompt_negative": "modern, recent, old, oldest, anime, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digits, fewer digits, cropped, very displeasing, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, simple background, conjoined, bad ai-generated",
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 8,
