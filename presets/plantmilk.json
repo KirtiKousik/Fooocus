@@ -38,7 +38,7 @@
     "default_sampler": "lcm",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece, best quality, high quality, very awa,Art8st, 1girl, big round breasts, sitting, leg up, puffy nipples, orgasm, ponytail, medieval time, 1dog, dog tongue out, cunnilingus, pussy, cum dripping, color theory, shiny skin,",
+    "default_prompt": "masterpiece, best quality, high quality, very awa,Art8st,1girl, velma_dinkley, gigantic_breasts, sagging_breasts, (huge inverted_nipples:1.3), (bandaids on nipples:1.2), blush, glasses, freckles, orange sweater lift, underboob, gradient_background,color theory, dynamic build, shiny skin",
     "default_prompt_negative": "bad quality, worst quality, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, signature, watermark, censored, ugly, (messy),",
     "default_aspect_ratio": "832*1152",
     "default_overwrite_step": 8,
