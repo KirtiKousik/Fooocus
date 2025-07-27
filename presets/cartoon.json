@@ -1,0 +1,68 @@
+{
+    "default_model": "plantMilkModelSuite_walnut.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_max_lora_number": 10,
+    "default_loras_min_weight": -8,
+    "default_loras_max_weight": 8,
+    "default_loras": [
+        [
+            true,
+            "dmd2_sdxl_4step_lora.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "Anime_artist_illustrious_r1.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 1.0,
+    "default_sample_sharpness": 2.0,
+    "default_styles": [],
+    "default_sampler": "lcm",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "masterpiece, best quality, high quality, very awa,Art8st,1girl, velma_dinkley, gigantic_breasts, sagging_breasts, inverted_nipples, bandaids on nipples, glasses, freckles, orange sweater lift, underboob, gradient_background,color theory, dynamic build, shiny skin",
+    "default_prompt_negative": "bad quality, worst quality, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, signature, watermark, censored, ugly, (messy),",
+    "default_aspect_ratio": "1024*1024",
+    "default_overwrite_step": 8,
+    "default_inpaint_engine_version": "None",
+    "checkpoint_downloads": {
+        "plantMilkModelSuite_walnut.safetensors": "https://huggingface.co/misri/plantMilkModelSuite_walnut/resolve/main/plantMilkModelSuite_walnut.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "Inverted_nipples.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/CN1nv2pl_ilv1.safetensors",
+        "Detailer_NoobAI.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/Detailer_NoobAI_Incrs_v1.safetensors",
+        "Disney_Animation.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/Disney_Animation_v5-V7.safetensors",
+        "Dramatic_Lighting_slider.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/Dramatic%20Lighting%20Slider.safetensors",
+        "expressive_incase.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/ExpressiveHGothicNeonIncaseStyleMixV2ALLXLbyUOC.safetensors",
+        "breast_bondage_ill_v1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/breast_bondage_ill_v1.safetensors",
+        "Rumi_KPDH_Ill.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/RumiKPILf.safetensors",
+        "Zoey_KPDH_Ill.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/ZoeyKPILf.safetensors",
+        "Mira_KPDH_Ill.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/MiraKPILf.safetensors",
+        "nipple_penetration.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/nipplepenetration.safetensors",
+        "Jubilee_XMen.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/JubileeX97ILf.safetensors",
+        "Nipple_size_slider.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Nipple%20Size%20Slider_ILXL.safetensors",
+        "Nipple_pull.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Nipple_pull_v4culty_il.safetensors",
+        "Penis_size_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Penis%20Size%20Slider%20-%20Illustrious%20-%20Girthy_alpha1.0_rank4_noxattn_250steps.safetensors",
+        "Anime_artist_illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Anime_artist_illustrious_r1.safetensors"
+    },
+    "vae_downloads": {}
+}
