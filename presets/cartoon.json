@@ -49,6 +49,7 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "Apenises_Ill_Canine.safetensors": "https://huggingface.co/KirtiKousik/furry_anatomy/resolve/main/Apenises_Ill_Canine.safetensors",
+        "skindentation_v2.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/skindentation_v2.safetensors",
         "Scooby_doo.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/Scooby-Doo%20Illustrious.safetensors",
         "Breast_smother.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/breast-smother-illustriousxl-lora-nochekaiser.safetensors",
         "nipple_penetration.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/nipplepenetration.safetensors",
