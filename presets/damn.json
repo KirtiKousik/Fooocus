@@ -49,7 +49,7 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "Kim_Possible_IL2.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/Kim_Possible_IL2.safetensors",
-        "skindentation_v2.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/skindentation_v2.safetensors",
+        "Dramatic_lighting_slider.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/Dramatic%20Lighting%20Slider.safetensors",
     },
     "vae_downloads": {}
 }
