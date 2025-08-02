@@ -48,7 +48,9 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Kim_Possible_IL2.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/Kim_Possible_IL2.safetensors",
+        "Ahegao_XL_v3.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/Ahegao_XL_v3.safetensors",
+        "foreskin_penis.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/foreskin_penis.safetensors",
+        "foreskin2_illus.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/foreskin2_illus-000070.safetensors",
         "PenisQuiron_illus.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/PenisQuiron_illus.safetensors",
         "Dramatic_lighting_slider.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/Dramatic%20Lighting%20Slider.safetensors"
     },
