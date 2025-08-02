@@ -1,6 +1,6 @@
 {
     "default_model": "damnIllustriousPony_v50IllustriousNoobai.safetensors",
-    "default_refiner": "",
+    "default_refiner": "None",
     "default_refiner_switch": 0.66,
     "default_max_lora_number": 10,
     "default_loras_min_weight": -8,
