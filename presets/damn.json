@@ -1,5 +1,5 @@
 {
-    "default_model": "hyphoriaRealIllu_v09.safetensors",
+    "default_model": "intorealismXL_V35.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.66,
     "default_max_lora_number": 10,
@@ -44,7 +44,7 @@
     "default_overwrite_step": 8,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "hyphoriaRealIllu_v09.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/hyphoriaRealIllu_v09.safetensors"
+        "intorealismXL_V35.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/intorealismXL_V35.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
