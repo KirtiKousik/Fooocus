@@ -41,7 +41,7 @@
     "default_prompt": "masterpiece, best quality, realistic, photorealistic,",
     "default_prompt_negative": "bad quality, worst quality, low quality,",
     "default_aspect_ratio": "1024*1024",
-    "default_overwrite_step": -1,
+    "default_overwrite_step": 8,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "pornmaster_proSDXLV7.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/pornmaster_proSDXLV7.safetensors"
