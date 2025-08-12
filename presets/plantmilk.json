@@ -38,7 +38,7 @@
     "default_sampler": "lcm",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "Art8st, masterpiece, best quality, high quality, very awa,Art8st,1girl, velma_dinkley, gigantic_breasts, sagging_breasts, inverted_nipples, bandaids on nipples, glasses, freckles, orange sweater lift, underboob, gradient_background,color theory, dynamic build, shiny skin",
+    "default_prompt": "Art8st, masterpiece, best quality, high quality, very awa, 1girl, velma_dinkley, gigantic_breasts, sagging_breasts, inverted_nipples, bandaids on nipples, glasses, freckles, orange sweater lift, underboob, gradient_background,color theory, dynamic build, shiny skin",
     "default_prompt_negative": "bad quality, worst quality, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, signature, watermark, censored, ugly, (messy),",
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 8,
