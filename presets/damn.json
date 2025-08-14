@@ -1,5 +1,5 @@
 {
-    "default_model": "damnIllustriousPony_v50IllustriousNoobai.safetensors",
+    "default_model": "ilustmix_v9.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.6,
     "default_max_lora_number": 10,
@@ -44,7 +44,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "damnIllustriousPony_v50IllustriousNoobai.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/damnIllustriousPony_v50IllustriousNoobai.safetensors"
+        "ilustmix_v9.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/ilustmix_v9.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
