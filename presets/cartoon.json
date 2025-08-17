@@ -1,5 +1,5 @@
 {
-    "default_model": "novaCartoonXL_v30.safetensors",
+    "default_model": "novaCartoonXL_v40.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_max_lora_number": 10,
@@ -44,7 +44,7 @@
     "default_overwrite_step": 8,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "novaCartoonXL_v30.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/novaCartoonXL_v30.safetensors"
+        "novaCartoonXL_v40.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/novaCartoonXL_v40.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
