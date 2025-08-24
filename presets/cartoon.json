@@ -38,8 +38,8 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece, best quality, amazing quality, very awa,absurdres,newest,very aesthetic,depth of field, highres,",
-    "default_prompt_negative": "worst quality,normal quality,anatomical nonsense,bad anatomy,interlocked fingers,extra fingers,watermark,simple background,transparent,low quality,logo,text,signature,face backlighting,backlighting,",
+    "default_prompt": "masterpiece, best quality, amazing quality,very awa,absurdres,newest,very aesthetic,depth of field,highres,",
+    "default_prompt_negative": "worst quality,normal quality,anatomical nonsense,bad anatomy,interlocked fingers,extra fingers,watermark,simple background,transparent,low quality,logo,text,signature,face backlighting,",
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 20,
     "default_inpaint_engine_version": "None",
@@ -47,13 +47,8 @@
         "oneObsession_v16Noobai.safetensors": "https://huggingface.co/Vit8rt/One_obsession_v1.6/resolve/main/oneObsession_v16Noobai.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "Penis_size_slider.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/Penis%20Size%20Slider%20-%20Illustrious%20-%20Girthy_alpha1.0_rank4_noxattn_250steps.safetensors",
-        "Anime_artist_illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Anime_artist_illustrious_r1.safetensors",
-        "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors",
-        "Cum_slider.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/Cum%20slider%20IXL_alpha16.0_rank32_full_last.safetensors",
-        "realistic_cum_v1.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/realistic_cum_v1.safetensors",
-        "Dramatic_lighting_slider.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/Dramatic%20Lighting%20Slider.safetensors"
+    "lora_downloads": {        
+        "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors"
     },
     "vae_downloads": {}
 }
