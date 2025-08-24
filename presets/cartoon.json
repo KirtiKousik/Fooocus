@@ -12,7 +12,7 @@
             1.0
         ],
         [
-            false,
+            true,
             "detail-tweaker.safetensors.safetensors",
             1.5
         ],
