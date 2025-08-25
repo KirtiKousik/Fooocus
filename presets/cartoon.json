@@ -39,7 +39,7 @@
     "default_scheduler": "normal",
     "default_performance": "Speed",
     "default_prompt": "masterpiece, best quality, amazing quality,very awa,absurdres,newest,very aesthetic,depth of field,highres,",
-    "default_prompt_negative": "worst quality,normal quality,anatomical nonsense,bad anatomy,interlocked fingers,extra fingers,watermark,simple background,transparent,low quality,logo,text,signature,face backlighting,",
+    "default_prompt_negative": "worst quality,normal quality,anatomical nonsense,bad anatomy,interlocked fingers,extra fingers,watermark,simple background,transparent,low quality,logo,text,signature,face backlighting,backlighting",
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 20,
     "default_inpaint_engine_version": "None",
