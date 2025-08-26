@@ -48,7 +48,8 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {        
-        "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors"
+        "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors",
+        "Expressive.safetensors": "https://huggingface.co/KirtiKousik/pony/resolve/main/Expressive_H-000001.safetensors"
     },
     "vae_downloads": {}
 }
