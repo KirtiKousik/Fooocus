@@ -7,7 +7,7 @@
     "default_loras_max_weight": 8,
     "default_loras": [
         [
-            true,
+            false,
             "dmd2_sdxl_4step_lora.safetensors",
             1.0
         ],
@@ -36,7 +36,7 @@
     "default_sample_sharpness": 2.0,
     "default_styles": [],
     "default_sampler": "euler_ancestral",
-    "default_scheduler": "karras",
+    "default_scheduler": "normal",
     "default_performance": "Speed",
     "default_prompt": "very awa,masterpiece,best quality,professional photography, movie stills realistic,photorealistic,depth of field",
     "default_prompt_negative": "worst quality, low quality, cartoon, illustration, anime, painting, CGI, 3D render, low quality, watermark, logo, label, blurry, blurry foreground",
