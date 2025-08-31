@@ -7,24 +7,24 @@
     "default_loras_max_weight": 8,
     "default_loras": [
         [
-            false,
-            "dmd2_sdxl_4step_lora.safetensors",
-            1.0
+            true,
+            "asian_cosplay_v1.safetensors",
+            0.6
         ],
         [
             true,
-            "None",
-            1.0
+            "cosplay_photo_v1.safetensors",
+            0.6
         ],
         [
             true,
-            "detail-tweaker.safetensors",
-            1.5
+            "skin_pornmaster_v1.safetensors",
+            0.6
         ],
         [
             true,
-            "None",
-            1.0
+            "brightness_slider_d1.safetensors",
+            -1.0
         ],
         [
             true,
