@@ -50,6 +50,7 @@
     "lora_downloads": {
         "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors",
         "asian_cosplay_v1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/asian%20cosplay%20photo-noob-V1-lora.safetensors",
+        "russian.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/BSS_RSGRL_IL.safetensors",
         "cosplay_photo_v1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/cosplay%20photo-IL-V1-lora.safetensors",
         "brightness_slider_d1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/il_brightness_slider_d1.safetensors",
         "skin_pornmaster_v1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/pornmaster%20skin-IL-V1-lora.safetensors"
