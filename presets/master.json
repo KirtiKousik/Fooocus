@@ -38,7 +38,7 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
-    "default_prompt": "(photograph,realistic,photorealistic,cosplay photo:1),highly detailed,pov across table,{prompt},(real skin,detailed skin texture:1), very awa,masterpiece,best quality,newest,highres,absurdres, depth of field,bokeh,  ",
+    "default_prompt": "(photograph,realistic,photorealistic:1),{prompt},(real skin,detailed skin texture:1),very awa,masterpiece,best quality,newest,highres,absurdres,depth of field,bokeh,",
     "default_prompt_negative": "worst quality, low quality, cartoon, illustration, anime, painting, CGI, 3D render, low quality, watermark, logo, label, blurry, blurry foreground",
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 25,
