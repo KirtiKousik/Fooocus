@@ -7,7 +7,7 @@
     "default_loras_max_weight": 8,
     "default_loras": [
         [
-            false,
+            true,
             "asian_cosplay_v1.safetensors",
             0.6
         ],
@@ -38,9 +38,9 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
-    "default_prompt": "(photograph,realistic,photorealistic:1),{prompt},(real skin,detailed skin texture:1),very awa,masterpiece,best quality,newest,highres,absurdres,depth of field,bokeh,",
+    "default_prompt": "(photograph,realistic,photorealistic:1),(real skin,detailed skin texture:1),very awa,masterpiece,best quality,newest,highres,absurdres,depth of field,bokeh,",
     "default_prompt_negative": "BBW,fat woman,milf,full body,lowres, worst aesthetic, bad quality, worst quality, bad anatomy, jpeg artifacts, scan artifacts, lossy-lossless, unfinished, ugly, poorly drawn, greyscale, illustration, 2d, 3d, painting , toon, sketch, comic, anime,flat color,outline,watermark, text, blurry,blurry foreground",
-    "default_aspect_ratio": "1024*1024",
+    "default_aspect_ratio": "896*1152",
     "default_overwrite_step": 25,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
