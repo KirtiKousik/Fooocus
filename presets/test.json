@@ -39,7 +39,7 @@
     "default_scheduler": "normal",
     "default_performance": "Speed",
     "default_prompt": "masterpiece, absurdres,",
-    "default_prompt_negative": "(bad anatomy:1.5), signature, watermark, (worst quality, bad quality:1.2),",
+    "default_prompt_negative": "(bad anatomy:1.5), signature, watermark, (worst quality, bad quality:1.2),sketch",
     "default_aspect_ratio": "896×1152",
     "default_overwrite_step": 25,
     "default_inpaint_engine_version": "None",
