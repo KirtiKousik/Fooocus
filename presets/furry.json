@@ -1,5 +1,5 @@
 {
-    "default_model": "willysNoobRealism_vPredAlpha.safetensors",
+    "default_model": "illustriousBeastMix_v12.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_max_lora_number": 10,
