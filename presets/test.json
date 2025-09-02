@@ -47,6 +47,8 @@
         "xepernoobhax64_128.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/xepernoobhax64_128.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors"
+    },
     "vae_downloads": {}
 }
