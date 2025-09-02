@@ -48,7 +48,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors",
         "asian_cosplay_v1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/asian%20cosplay%20photo-noob-V1-lora.safetensors",
         "race_helper.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/RE3-30.safetensors",
         "cosplay_photo_v1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/cosplay%20photo-IL-V1-lora.safetensors",
