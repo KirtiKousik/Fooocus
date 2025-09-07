@@ -38,10 +38,10 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece, best quality, amazing quality,very awa,absurdres,newest,very aesthetic,depth of field,highres,",
-    "default_prompt_negative": "worst quality,normal quality,anatomical nonsense,bad anatomy,interlocked fingers,extra fingers,watermark,simple background,transparent,low quality,logo,text,signature,face backlighting,backlighting",
-    "default_aspect_ratio": "1024*1024",
-    "default_overwrite_step": 20,
+    "default_prompt": "masterpiece, best quality",
+    "default_prompt_negative": "worst quality, bad quality,",
+    "default_aspect_ratio": "896*1152",
+    "default_overwrite_step": 25,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "illustrij_v18.safetensors": "https://huggingface.co/KirtiKousik/Illustrij/resolve/main/illustrij_v18.safetensors"
