@@ -1,0 +1,54 @@
+{
+    "default_model": "illustrij_v18.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_max_lora_number": 10,
+    "default_loras_min_weight": -8,
+    "default_loras_max_weight": 8,
+    "default_loras": [
+        [
+            false,
+            "dmd2_sdxl_4step_lora.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "rdtdrp.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 3,
+    "default_sample_sharpness": 2.0,
+    "default_styles": [],
+    "default_sampler": "euler_ancestral",
+    "default_scheduler": "normal",
+    "default_performance": "Speed",
+    "default_prompt": "masterpiece, best quality, amazing quality,very awa,absurdres,newest,very aesthetic,depth of field,highres,",
+    "default_prompt_negative": "worst quality,normal quality,anatomical nonsense,bad anatomy,interlocked fingers,extra fingers,watermark,simple background,transparent,low quality,logo,text,signature,face backlighting,backlighting",
+    "default_aspect_ratio": "1024*1024",
+    "default_overwrite_step": 20,
+    "default_inpaint_engine_version": "None",
+    "checkpoint_downloads": {
+        "illustrij_v18.safetensors": "https://huggingface.co/KirtiKousik/Illustrij/resolve/main/illustrij_v18.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {        
+        "rdtdrp.safetensors": "https://huggingface.co/KirtiKousik/Illustrij/resolve/main/rdtdrp.safetensors"
+    },
+    "vae_downloads": {}
+}
