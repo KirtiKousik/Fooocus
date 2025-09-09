@@ -38,9 +38,9 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece, best quality, realistic, photorealistic, solo, 1boy, (shota:1.3), white hair, hair clip, medium hair,black t-shirt, elf ears, sticker, makeup, seductive pose, on side, front view, short shorts, bulge, ahegao, cum on face, depth of field, blurry background, detailed background, color theory, dynamic angle,",
+    "default_prompt": "masterpiece, best quality, realistic, photorealistic, depth of field, blurry background, detailed background, color theory, dynamic angle,",
     "default_prompt_negative": "lowres, bad, poor, simple, generic, boring, mainstream, artefacts, fake, dull, bland, bad-anatomy, low budget, slop, low effort, AI generated, photoshop, low_detail, amateur, novice, bad_art, bad_artist, unfocused, low_score, test, draft, unfinished, error, mistake",
-    "default_aspect_ratio": "1024*1024",
+    "default_aspect_ratio": "896*1152",
     "default_overwrite_step": 25,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
