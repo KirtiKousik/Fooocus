@@ -38,7 +38,7 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "normal",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece, best quality, realistic, photorealistic, depth of field, blurry background, detailed background, color theory, dynamic angle,",
+    "default_prompt": ",masterpiece, best quality, realistic, photorealistic, depth of field, blurry background, detailed background, color theory, dynamic angle,",
     "default_prompt_negative": "lowres, bad, poor, simple, generic, boring, mainstream, artefacts, fake, dull, bland, bad-anatomy, low budget, slop, low effort, AI generated, photoshop, low_detail, amateur, novice, bad_art, bad_artist, unfocused, low_score, test, draft, unfinished, error, mistake",
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": 25,
