@@ -52,7 +52,8 @@
         "race_helper.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/RE3-30.safetensors",
         "cosplay_photo_v1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/cosplay%20photo-IL-V1-lora.safetensors",
         "brightness_slider_d1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/il_brightness_slider_d1.safetensors",
-        "skin_pornmaster_v1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/pornmaster%20skin-IL-V1-lora.safetensors"
+        "skin_pornmaster_v1.safetensors": "https://huggingface.co/KirtiKousik/master_loras/resolve/main/pornmaster%20skin-IL-V1-lora.safetensors",
+        "Dramatic_lighting_slider.safetensors": "https://huggingface.co/KirtiKousik/ill_cartoon/resolve/main/Dramatic%20Lighting%20Slider.safetensors"
     },
     "vae_downloads": {}
 }
