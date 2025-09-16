@@ -1,5 +1,5 @@
 {
-    "default_model": "oneObsession_v16Noobai.safetensors",
+    "default_model": "JANKUV5NSFWTrainedNoobai_v50.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_max_lora_number": 10,
@@ -44,11 +44,17 @@
     "default_overwrite_step": 20,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "oneObsession_v16Noobai.safetensors": "https://huggingface.co/Vit8rt/One_obsession_v1.6/resolve/main/oneObsession_v16Noobai.safetensors"
+        "JANKUV5NSFWTrainedNoobai_v50.safetensors": "https://huggingface.co/KirtiKousik/janku/resolve/main/JANKUV5NSFWTrainedNoobai_v50.safetensors"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {
+        "lazyneg.safetensors": "https://huggingface.co/KirtiKousik/janku/resolve/main/lazyneg.safetensors",
+        "lazypos.safetensors": "https://huggingface.co/KirtiKousik/janku/resolve/main/lazypos.safetensors"
+    },
     "lora_downloads": {        
-        "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors"
+        "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors",
+        "Anime_artist_illustrious_r1.safetensors": "https://huggingface.co/KirtiKousik/ill_loras/resolve/main/Anime_artist_illustrious_r1.safetensors",
+        "darkness_xl_v20.safetensors": "https://huggingface.co/KirtiKousik/janku/resolve/main/darkness_xl_v20.safetensors",
+        "illustriousXLv01_stabilizer.safetensors": "https://huggingface.co/KirtiKousik/janku/resolve/main/illustriousXLv01_stabilizer_v1.198.safetensors"        
     },
     "vae_downloads": {}
 }
