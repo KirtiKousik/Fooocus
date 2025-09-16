@@ -23,12 +23,12 @@
         ],
         [
             true,
-            "None",
+            "Anime_artist_illustrious_r1.safetensors",
             1.0
         ],
         [
-            true,
-            "None",
+            false,
+            "darkness_xl_v20.safetensors",
             1.0
         ]
     ],
