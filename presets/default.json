@@ -50,7 +50,7 @@
     "lora_downloads": {
         "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors",
         "clear_note_sdxl.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/clear_note_sdxl.safetensors",
-        "realistic_cum_v1.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/realistic_cum_v1.safetensors",
+        "midjourney.safetensors": "https://huggingface.co/imagepipeline/Midjourney-Mimic-v1.2/resolve/main/2ac68c15-7d9b-49e0-a4a2-796d3093a555.safetensors",
         "leaked_nudes_style_v1_fixed.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/leaked_nudes_style_v1_fixed.safetensors"
     },
     "vae_downloads": {}
