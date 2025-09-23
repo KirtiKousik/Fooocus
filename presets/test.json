@@ -1,5 +1,5 @@
 {
-    "default_model": "phux_10.safetensors",
+    "default_model": "lustifySDXLNSFW_ggwpV7.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.6,
     "default_max_lora_number": 10,
@@ -44,7 +44,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "phux_10.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/phux_10.safetensors"
+        "lustifySDXLNSFW_ggwpV7.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/lustifySDXLNSFW_ggwpV7.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
