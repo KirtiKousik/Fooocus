@@ -39,7 +39,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "amateur photo, film grain, selfie,",
-    "default_prompt_negative": "bad quality, worst quality, low quality,",
+    "default_prompt_negative": "(face out of frame:1.1), black and white,",
     "default_aspect_ratio": "832*1152",
     "default_overwrite_step": 8,
     "default_inpaint_engine_version": "None",
