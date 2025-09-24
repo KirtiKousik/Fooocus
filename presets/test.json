@@ -38,7 +38,7 @@
     "default_sampler": "dpmpp_2m_sde",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece, best quality, realistic, depth of field, ",
+    "default_prompt": "amateur photo, film grain, selfie,",
     "default_prompt_negative": "bad quality, worst quality, low quality,",
     "default_aspect_ratio": "832*1152",
     "default_overwrite_step": -1,
@@ -48,8 +48,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "midjourney.safetensors": "https://huggingface.co/imagepipeline/Midjourney-Mimic-v1.2/resolve/main/2ac68c15-7d9b-49e0-a4a2-796d3093a555.safetensors",
-        "MJ52_v2.safetensors": "https://huggingface.co/xxxpo13/MJ52_v2.0/resolve/main/MJ52_v2.0.safetensors",
         "leaked_nudes_style_v1_fixed.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/leaked_nudes_style_v1_fixed.safetensors"
     },
     "vae_downloads": {}
