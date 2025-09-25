@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_ragnarokBy.safetensors",
+    "default_model": "ultrarealSDXL_v10.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.6,
     "default_max_lora_number": 10,
@@ -17,8 +17,8 @@
             1.0
         ],
         [
-            true,
-            "clear_note_sdxl.safetensors",
+            false,
+            "None",
             1.0
         ],
         [
@@ -32,10 +32,10 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 3.5,
+    "default_cfg_scale": 7,
     "default_sample_sharpness": 2.0,
     "default_styles": [],
-    "default_sampler": "dpmpp_2m_sde",
+    "default_sampler": "dpmpp_2m",
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "clear_note, masterpiece, best quality, realistic, depth of field, ",
@@ -44,14 +44,11 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "juggernautXL_ragnarokBy.safetensors": "https://huggingface.co/modelzpalace/juggernautXL_ragnarok/resolve/main/juggernautXL_ragnarokBy.safetensors"
+        "ultrarealSDXL_v10.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/ultrarealSDXL_v10.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors",
-        "clear_note_sdxl.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/clear_note_sdxl.safetensors",
-        "midjourney.safetensors": "https://huggingface.co/imagepipeline/Midjourney-Mimic-v1.2/resolve/main/2ac68c15-7d9b-49e0-a4a2-796d3093a555.safetensors",
-        "MJ52_v2.safetensors": "https://huggingface.co/xxxpo13/MJ52_v2.0/resolve/main/MJ52_v2.0.safetensors",
         "leaked_nudes_style_v1_fixed.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/leaked_nudes_style_v1_fixed.safetensors"
     },
     "vae_downloads": {}
