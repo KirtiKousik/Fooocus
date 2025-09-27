@@ -19,24 +19,24 @@
         [
             true,
             "novuschroma13.safetensors",
-            1.0
+            0.35
         ],
         [
             true,
             "HyperdetailedColoredPencilV2SDXL.safetensors",
-            1.0
+            0.25
         ],
         [
             true,
-            "None",
-            1.0
+            "EnvyStudioPortraitXL01.safetensors",
+            0.25
         ]
     ],
-    "default_cfg_scale": 7,
+    "default_cfg_scale": 4,
     "default_sample_sharpness": 2.0,
     "default_styles": [],
-    "default_sampler": "dpmpp_2m",
-    "default_scheduler": "karras",
+    "default_sampler": "dpmpp_3m_sde",
+    "default_scheduler": "exponential",
     "default_performance": "Speed",
     "default_prompt": "masterpiece, best quality, realistic, depth of field, ",
     "default_prompt_negative": "bad quality, worst quality, low quality,",
@@ -54,6 +54,7 @@
         "HyperdetailedColoredPencilV2SDXL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/HyperdetailedColoredPencilV2SDXL.safetensors",
         "novuschroma13.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/novuschroma13%20style_2.safetensors",
         "2000s_Fliphone_Selfie_Style_XL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/2000s_Fliphone_Selfie_Style_XL.safetensors",
+        "EnvyStudioPortraitXL01.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/EnvyStudioPortraitXL01.safetensors",
         "leaked_nudes_style_v1_fixed.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/leaked_nudes_style_v1_fixed.safetensors"
     },
     "vae_downloads": {}
