@@ -17,13 +17,13 @@
             1.0
         ],
         [
-            false,
-            "None",
+            true,
+            "novuschroma13.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "HyperdetailedColoredPencilV2SDXL.safetensors",
             1.0
         ],
         [
@@ -53,6 +53,7 @@
         "epiCRealnessRC1.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/epiCRealnessRC1.safetensors",
         "HyperdetailedColoredPencilV2SDXL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/HyperdetailedColoredPencilV2SDXL.safetensors",
         "novuschroma13.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/novuschroma13%20style_2.safetensors",
+        "2000s_Fliphone_Selfie_Style_XL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/2000s_Fliphone_Selfie_Style_XL.safetensors",
         "leaked_nudes_style_v1_fixed.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/leaked_nudes_style_v1_fixed.safetensors"
     },
     "vae_downloads": {}
