@@ -38,7 +38,7 @@
     "default_sampler": "dpmpp_3m_sde",
     "default_scheduler": "exponential",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece, best quality, realistic, depth of field,realistic skin detail, detailed face, detailed eyes, extremely detailed,",
+    "default_prompt": "[digital painting by (Ori Gersht and Tang Yau Hoong in the style of Lee Bogle and Andy Kehoe:1.20):high detail raw amateur color photo:0.99],realistic skin detail, detailed face, detailed eyes, extremely detailed,",
     "default_prompt_negative": "horrors, painted, watermark, asian",
     "default_aspect_ratio": "832*1152",
     "default_overwrite_step": -1,
