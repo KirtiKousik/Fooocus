@@ -39,7 +39,7 @@
     "default_scheduler": "exponential",
     "default_performance": "Speed",
     "default_prompt": "masterpiece, best quality, realistic, depth of field,realistic skin detail, detailed face, detailed eyes, extremely detailed,",
-    "default_prompt_negative": "horrors, painted, watermark",
+    "default_prompt_negative": "horrors, painted, watermark, asian",
     "default_aspect_ratio": "832*1152",
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
