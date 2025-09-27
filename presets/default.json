@@ -49,8 +49,10 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "detail-tweaker.safetensors": "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors",
-        "epiCPhotoXL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/epiCPhotoXL.safetensors"
-        "epiCRealnessRC1.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/epiCRealnessRC1.safetensors"
+        "epiCPhotoXL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/epiCPhotoXL.safetensors",
+        "epiCRealnessRC1.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/epiCRealnessRC1.safetensors",
+        "HyperdetailedColoredPencilV2SDXL.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/HyperdetailedColoredPencilV2SDXL.safetensors",
+        "novuschroma13.safetensors": "https://huggingface.co/KirtiKousik/New_loras/resolve/main/novuschroma13%20style_2.safetensors",
         "leaked_nudes_style_v1_fixed.safetensors": "https://huggingface.co/KirtiKousik/Damn_Illustrious_XL/resolve/main/leaked_nudes_style_v1_fixed.safetensors"
     },
     "vae_downloads": {}
